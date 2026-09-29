@@ -1,0 +1,17 @@
+{
+  "name": "gomoku-online-server",
+  "version": "1.0.0",
+  "description": "五子棋联机对战 WebSocket 服务器",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "LiyyleCat",
+  "license": "MIT"
+}
